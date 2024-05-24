@@ -1,11 +1,10 @@
-project:
+project: 
   type: website
 
 website:
   title: "Análitica avanzada de datos"
   navbar:
     right:
-      - about.qmd
       - icon: github
         href: https://github/gabbdiazp
 format:

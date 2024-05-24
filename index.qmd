@@ -1,0 +1,57 @@
+---
+title: "Gabriela Díaz Porto"
+subtitle: "Student of Applied Statistics' Master at Universidad del Norte, Barranquilla"
+
+image: foto_perfil_gab.png
+about:
+  template: trestles
+  image-width: "15em"
+  links:
+
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github/gabbdiazp
+      
+toc: TRUE
+
+---
+
+# **About**
+
+I am currently a middle school math teacher at [Marymount School](https://www.marymountbq.edu.co/web/) (Barranquilla), with three years of teaching experience. I am passionate about helping students truly understand the world of numbers. I earned my Bachelor's degree in [Mathematics](https://www.uninorte.edu.co/web/matematicas?utm_source=google&utm_medium=cpc&utm_campaign=pre_google_inscripciones_202430&gad_source=1&gclid=CjwKCAjwr7ayBhAPEiwA6EIGxMMrIy6m_J36jSVpYSGL6iM593zUPSUK-swEBcVSlr09MKxAHsPZRRoCQ4YQAvD_BwE) from Universidad del Norte, where I developed a strong interest in algebra and group theory. Since 2023, I have been pursuing a Master's degree in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte, aiming to deepen my knowledge in biostatistics and machine learning.
+
+# **Education**
+
+1. ITSA, Barranquilla - 2016
+    <br>
+   _Technician in Graphic Design _
+    
+2. Universidad del Norte, Barranquilla - 2021
+    <br>
+   _Mathematics_
+
+3. Universidad del Norte, Barranquilla - In progress
+   <br>
+   _Master in Applied Statistics_
+
+# **Honors and awards**
+
+1. "Ser pilo paga" Scholarship - 3rd Edition. 
+
+2. Recognition for participation in the Fifth Winter School of Mathematics in Oaxaca from November 18 to 22, 2019.
+
+3. Honorable mention for good academic performance in the Mathematics program
+at the Universidad del Norte in the 2020-10 semester.
+
+4. "Julio Muvdi" Scholarship for Graduate Programs, Universidad del Norte.
+
+# **Publications**
+
+1. Diaz-Porto, G.; Gutierrez, I.; Torres-Grandisson, A. The t-Graphs over Finitely Generated Groups and the Minkowski Metric. [Mathematics](https://www.mdpi.com/2227-7390/10/17/3030) 2022, 10, 3030.
+
+
+
+

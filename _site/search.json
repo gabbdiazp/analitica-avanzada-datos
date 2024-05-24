@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gabriela Díaz Porto",
+    "section": "",
+    "text": "hola\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 22, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 19, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Gabriela Díaz Porto",
+    "section": "",
+    "text": "About\nI am currently a middle school math teacher at Marymount School (Barranquilla), with three years of teaching experience. I am passionate about helping students truly understand the world of numbers. I earned my Bachelor’s degree in Mathematics from Universidad del Norte, where I developed a strong interest in algebra and group theory. Since 2023, I have been pursuing a Master’s degree in Applied Statistics at Universidad del Norte, aiming to deepen my knowledge in biostatistics and machine learning.\n\n\nEducation\n\nITSA, Barranquilla - 2016  Technician in Graphic Design \nUniversidad del Norte, Barranquilla - 2021  Mathematics\nUniversidad del Norte, Barranquilla - In progress  Master in Applied Statistics\n\n\n\nHonors and awards\n\n“Ser pilo paga” Scholarship - 3rd Edition.\nRecognition for participation in the Fifth Winter School of Mathematics in Oaxaca from November 18 to 22, 2019.\nHonorable mention for good academic performance in the Mathematics program at the Universidad del Norte in the 2020-10 semester.\n“Julio Muvdi” Scholarship for Graduate Programs, Universidad del Norte.\n\n\n\nPublications\n\nDiaz-Porto, G.; Gutierrez, I.; Torres-Grandisson, A. The t-Graphs over Finitely Generated Groups and the Minkowski Metric. Mathematics 2022, 10, 3030."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]

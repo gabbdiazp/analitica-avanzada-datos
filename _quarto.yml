@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Análitica avanzada de datos"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github/gabbdiazp
+format:
+  html:
+    theme: lux
+    css: styles.css
+
+margin-right: "0px"
+self-contained: TRUE
+
+editor: visual
+
